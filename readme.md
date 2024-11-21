@@ -2,6 +2,8 @@
 
 A simple wiki generator with a nice front-end theme.
 
+*Work in progress. No code for a while.*
+
 This generator has three main page types:
 
 * Front page: displays newest, popular, and notable – as well as a list below organizing posts according to their tags or category.
